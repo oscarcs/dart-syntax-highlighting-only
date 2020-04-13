@@ -10,7 +10,7 @@
     "categories": [
         "Programming Languages"
     ],
-    "icon": "./logo.png",
+    "icon": "logo.png",
     "license": "see LICENSE.md",
     "repository": {
         "type": "git",
