@@ -2,7 +2,7 @@
     "name": "dart-syntax-highlighting-only",
     "displayName": "Dart (Syntax Highlighting Only)",
     "description": "Syntax highlighting for Dart and nothing else.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "oscarcs",
     "engines": {
         "vscode": "^1.25.0"
